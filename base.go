@@ -1,3 +1,6 @@
+// Copyright 2016 Horacio Duran.
+// Licensed under the MIT, see LICENCE file for details.
+
 package main
 
 import (
